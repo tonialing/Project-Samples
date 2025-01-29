@@ -1,5 +1,5 @@
 # Project-Samples
 
-These samples demonstrate how I apply supply chain methods and data analytics skills to real-world cases.
+These samples demonstrate how I apply supply chain methods and data analytics skills to solve real-world challenges.
 
-These projects may not appear as complete, cohesive projects. This is because they are team projects, but here I have only included the work I completed independently. Collaborative parts have been removed.
+They may not appear as fully cohesive projects because they were originally team-based. However, the examples here only reflect the work I completed independently, with any collaborative sections removed.
